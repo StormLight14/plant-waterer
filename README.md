@@ -1,2 +1,2 @@
 # plant-waterer
-Automatic plant waterer using Arduino
+Automatic plant waterer using Arduino!
