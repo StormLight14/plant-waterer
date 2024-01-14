@@ -11,4 +11,6 @@ At the very start of the code, you'll see the `water_time`, and `water_delay` va
 ## What does it look like?
 This, except you'll have the pump inside of a water source, and the tube will go to your plant!
 
+Also hopefully a bit less messy than what I did.
+
 <img src='https://github.com/StormLight14/StormLight14/blob/main/img/waterer-image.jpg?raw=true' width='500'>
